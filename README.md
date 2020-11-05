@@ -1,9 +1,9 @@
 # PoorTAlmanack
-Details of PoorTAlmanack Privacy Policy
+Details of PoorTAlmanack App Privacy Policy
 
-Privacy Policy for ejoy
+Privacy Policy for ejoy and Poor T's Almanack app
 
-At Poor T's Almanack privacy policy, accessible from https://github.com/bhatth05/PoorTAlmanack/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Poor T's Almanack and how we use it.
+At Poor T's Almanack privacy policy, accessible from https://github.com/bhatth05/PoorTAlmanack/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Poor T's Almanack and how we use it. At this time, the app or the website does not collect any user information.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
