@@ -1,0 +1,2 @@
+# PoorTAlmanack
+Details of PoorTAlmanack
